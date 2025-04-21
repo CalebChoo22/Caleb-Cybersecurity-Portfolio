@@ -9,7 +9,6 @@ Welcome to my cybersecurity portfolio! This repository showcases my hands-on pro
 - [🎯 About Me](#-about-me)
 - [📜 Certifications](#-certifications)
 - [🛠️ Tools Used](#-tools-used)
-- [📁 Projects](#-projects)
 - [📚 Learning & Resources](#-learning--resources)
 - [📬 Contact](#-contact)
 
@@ -40,20 +39,6 @@ Hello! I’m a Computer Information Systems and Technology student attending UT 
 
 ---
 
-## 📁 Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Project 1 - Wireshark Packet Analysis](./Project%201%20-%20Wireshark%20Analysis) | Captured and analyzed network traffic to identify malicious behavior. | Wireshark, Kali Linux |
-| [Project 2 - Nmap Vulnerability Scan](./Project%202%20-%20Nmap%20Scan) | Performed host discovery, port scanning, and service fingerprinting. | Nmap |
-| [Project 3 - Log Analysis & SIEM](./Project%203%20-%20Log%20Analysis) | Detected suspicious user behavior through log inspection and pattern matching. | Splunk, ELK |
-| [Project 4 - GRC & Policy Review](./Project%204%20-%20GRC%20Audit) | Conducted a mock compliance audit using NIST CSF & ISO 27001. | Excel, Risk Matrix |
-| [Project 5 - Incident Response Simulation](./Project%205%20-%20Incident%20Response) | Simulated an alert-to-response lifecycle for a phishing incident. | Playbooks, PowerPoint |
-
-> 📸 Each folder contains screenshots, findings, and lessons learned.
-
----
-
 ## 📚 Learning & Resources
 
 - Google Cybersecurity Certificate
@@ -68,7 +53,7 @@ Hello! I’m a Computer Information Systems and Technology student attending UT 
 
 Feel free to connect with me:
 
-- 💼 LinkedIn: [linkedin.com/in/calebchoo22](https://www.linkedin.com/calebchoo22)
+- 💼 LinkedIn: [linkedin.com/in/calebchoo22](https://www.linkedin.com/in/calebchoo22/)
 - 📧 Email: calebchoo2004@gmail.com
 - 📞 Phone: 469-774-0928
 
