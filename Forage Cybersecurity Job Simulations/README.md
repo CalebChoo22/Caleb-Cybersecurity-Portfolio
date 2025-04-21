@@ -4,10 +4,9 @@ This folder contains two job simulation projects completed on **Forage**, a virt
 
 ---
 
-## 🛡️ Mastercard Cybersecurity Simulation
+## Mastercard Cybersecurity Simulation
 
 **Certificate Date:** February 23, 2025  
-🔗 [Certificate of Completion (PDF)](./Mastercard%20Forage%20Certification.pdf)
 
 ### ✅ Tasks Completed:
 - Designed a phishing email simulation
@@ -21,10 +20,9 @@ This folder contains two job simulation projects completed on **Forage**, a virt
 
 ---
 
-## 🔐 Telstra Cybersecurity Simulation
+## Telstra Cybersecurity Simulation
 
 **Certificate Date:** March 6, 2025  
-🔗 [Certificate of Completion (PDF)](./Forage%20Telstra%20Certificate.pdf)
 
 ### ✅ Tasks Completed:
 - Responded to a malware attack
@@ -49,4 +47,4 @@ These simulations showcase my ability to:
 
 ---
 
-> 👨‍💻 *Completed as part of ongoing career development and real-world preparation for SOC and cybersecurity analyst roles.*
+> *Completed as part of ongoing career development and real-world preparation for SOC and cybersecurity analyst roles.*
