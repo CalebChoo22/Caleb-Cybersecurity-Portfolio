@@ -23,22 +23,20 @@ Hello! I’m a Computer Information Systems and Technology student attending UT 
 
 ## 📜 Certifications
 
-- ✅ [Google Cybersecurity Professional Certificate](https://www.credly.com/)
-- ✅ SOC Analyst Learning Path (TryHackMe or Cybrary)
-- ✅ Security Awareness Training (optional)
+- ✅ Google Cybersecurity Professional Certificate
+- ✅ SOC Analyst Learning Path (LetsDefend)
+- ✅ Google Cybersecurity Compliance Framework, Standards & Regulations
+- ✅ Google Automate Cybersecurity Tasks with Python
   
 ---
 
 ## 🛠️ Tools Used
 
+- GRC frameworks and audits
 - Kali Linux VM
 - Wireshark
 - Nmap
-- Splunk / ELK Stack
-- Metasploit
-- Burp Suite
-- Nessus (if used)
-- Excel (GRC + audit work)
+- Programming languages (Java, Python, SQL)
 
 ---
 
@@ -70,10 +68,10 @@ Hello! I’m a Computer Information Systems and Technology student attending UT 
 
 Feel free to connect with me:
 
-- 💼 LinkedIn: [linkedin.com/in/calebchoo](https://www.linkedin.com/)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio Website (if any)
+- 💼 LinkedIn: [linkedin.com/in/calebchoo22](https://www.linkedin.com/calebchoo22)
+- 📧 Email: calebchoo2004@gmail.com
+- 📞 Phone: 469-774-0928
 
 ---
 
-> 🔐 *This portfolio is a reflection of my growth in cybersecurity. Each project showcases practical skills with real tools in simulated environments.*
+> *This portfolio is a reflection of my growth in cybersecurity. Each project showcases practical skills with real tools in simulated environments.*
