@@ -1,4 +1,4 @@
-# 🧩 Project 5: Forage Cybersecurity Job Simulations
+# Forage Cybersecurity Job Simulations
 
 This folder contains two job simulation projects completed on **Forage**, a virtual experience platform partnered with industry leaders. These projects replicate real-world cybersecurity tasks based on actual job roles at Mastercard and Telstra.
 
