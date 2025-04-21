@@ -17,7 +17,7 @@ Welcome to my cybersecurity portfolio! This repository showcases my hands-on pro
 
 ## 🎯 About Me
 
-I’m a cybersecurity student with hands-on experience in network analysis, vulnerability scanning, and compliance frameworks. I’ve completed the **Google Cybersecurity Professional Certificate** and actively build projects using Kali Linux, Wireshark, and SIEM tools in a virtual lab setup.
+Hello! I’m a Computer Information Systems and Technology student attending UT Dallas with a concentration in cybersecurity. I have hands-on experience in network analysis, process automation, vulnerability scanning, compliance frameworks, and actively build projects using Kali Linux, Wireshark, and SIEM tools in a virtual machine setup.
 
 ---
 
