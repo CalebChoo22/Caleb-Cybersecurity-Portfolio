@@ -1,7 +1,5 @@
 # LetsDefend SOC Analyst Learning Path
 
-![Certificate](./LetsDefend%20SOC%20Analyst%20Learning%20Path%20Certificate.jpeg)
-
 **Issued Date:** April 7, 2025  
 **Platform:** [LetsDefend.io](https://letsdefend.io)
 
