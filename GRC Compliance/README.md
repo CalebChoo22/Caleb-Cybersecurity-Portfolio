@@ -30,23 +30,12 @@ Simulate the creation of a GRC (Governance, Risk, and Compliance) framework for 
 
 ---
 
-## 📄 Deliverables
-
-- ✅ Full written project (see: [`Nerdnest_Final_Project.docx`](./Nerdnest_Final_Project.docx))
-
----
-
 ## 🧠 Key Takeaways
 
 - Developed risk-aware governance structure
 - Practiced mapping real laws (SOX, HIPAA, CCPA) to organizational responsibilities
 - Understood ITIL alignment with cybersecurity practices
 - Prepared end-to-end mock cybersecurity audit plan
-
----
-
-## 📸 Screenshots (Optional)
-If you create diagrams or spreadsheets (e.g., risk matrix, policy framework), add them here.
 
 ---
 
