@@ -54,9 +54,3 @@ This certification serves as a foundational building block in my cybersecurity c
 - Further specialization in digital forensics, threat hunting, or GRC
 
 It also complements my Google Cybersecurity Certificate and aligns with NIST/NICE frameworks for workforce development.
-
-## 📬 Contact
-
-**Caleb Choo**  
-Cybersecurity Student | SOC Analyst in Training  
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#) *(Insert links when ready)*
