@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 
 # Load the vendor data
-vendor_data = pd.read_csv('vendor_data - Sheet1.csv')
+vendor_data = pd.read_csv('vendor_data.csv')
 vendor_data
 
 # Convert 'Yes'/'No' to 1/0
