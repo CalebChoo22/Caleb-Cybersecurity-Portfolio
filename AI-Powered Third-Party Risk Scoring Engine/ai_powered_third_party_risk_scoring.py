@@ -9,8 +9,6 @@ Original file is located at
 
 import pandas as pd
 
-!pip install streamlit
-
 # Load the vendor data
 vendor_data_Sheet1 = pd.read_csv('vendor_data - Sheet1.csv')
 vendor_data_Sheet1
