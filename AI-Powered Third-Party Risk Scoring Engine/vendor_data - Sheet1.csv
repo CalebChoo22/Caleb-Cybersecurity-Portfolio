@@ -1,0 +1,4 @@
+Vendor,Data Breach History,Security Rating,Number of Open Vulnerabilities,Industry Sensitivity Level
+Vendor A,Yes,60,12,High
+Vendor B,No,85,2,Medium
+Vendor C,No,90,0,Low
