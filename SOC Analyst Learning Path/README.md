@@ -3,9 +3,8 @@
 **Issued Date:** April 7, 2025  
 **Platform:** [LetsDefend.io](https://letsdefend.io)
 
----
 
-## 📘 About the Program
+# About the Program
 
 The LetsDefend SOC Analyst Learning Path is an immersive, hands-on training environment designed to replicate the daily responsibilities of a Tier 1 SOC Analyst. It combines threat detection, alert triage, incident response, malware analysis, and digital forensics in a live lab setting.
 
