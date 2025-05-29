@@ -41,7 +41,7 @@ Here’s what using it looks like:
   - `SSLfinal_State = 1`
 - Click "Submit"
 - The model will tell you:
-  > “Phishing Website” or “Legitimate Website”
+ “Phishing Website” or “Legitimate Website”
 
 ---
 
