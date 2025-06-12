@@ -1,12 +1,6 @@
-📄 Overview
+In this project, I built a risk scoring system to automatically assess and score third-party vendors based on their business risk factors. It predicts vendor risk levels, helping organizations with their GRC and third-party risk management processes.
 
-In this project, I built an AI-powered risk scoring system to automatically assess and score third-party vendors based on cybersecurity and business risk factors. It uses a simple machine learning model to predict vendor risk levels, helping organizations streamline their GRC (Governance, Risk, Compliance) and third-party risk management processes.
-
-The project simulates real-world vendor evaluations, incorporating factors like security ratings, breach history, vulnerability counts, and industry sensitivity levels.
-
-🚀 Features • Data Preprocessing (cleaning categorical data into model-ready format) • Risk Scoring Model using Random Forest Classifier • Threat Intelligence • Vendor Risk Predictions
-
-🛠️ Tools and Technologies • Python (Data analysis and machine learning) • Google Colab (No setup required) • Pandas (Data handling) • CSV Data (Vendor dataset)
+Features • Data Preprocessing (cleaning categorical data into model-ready format) • Risk Scoring Model using Random Forest Classifier • Threat Intelligence • Vendor Risk Predictions
 
 📂 Project Structure vendor_data_Sheet1.csv # Vendor data file (input) risk_scoring_engine.ipynb # Main Google Colab notebook
 
