@@ -39,16 +39,6 @@ Hello! I’m a Computer Information Systems and Technology student attending UT 
 
 ---
 
-## Learning & Resources
-
-- Google Cybersecurity Certificate
-- Cybrary Labs
-- TryHackMe & HackTheBox (Beginner Rooms)
-- BlueTeamLabs.online
-- MITRE ATT&CK Framework
-
----
-
 ## Contact
 
 Feel free to connect with me:
