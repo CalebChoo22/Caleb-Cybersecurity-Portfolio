@@ -1,0 +1,13 @@
+Control_ID,Family,Control_Name
+AC-2,AC,Account Management
+AC-3,AC,Access Enforcement
+AC-6,AC,Least Privilege
+IA-2,IA,Identification and Authentication (Organizational Users)
+IA-5,IA,Authenticator Management
+AU-2,AU,Event Logging
+AU-6,AU,"Audit Record Review, Analysis, and Reporting"
+CM-6,CM,Configuration Settings
+CP-9,CP,System Backup
+IR-4,IR,Incident Handling
+SC-7,SC,Boundary Protection
+SI-2,SI,Flaw Remediation

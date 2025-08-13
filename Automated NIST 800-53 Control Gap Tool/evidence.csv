@@ -1,0 +1,13 @@
+Control_ID,Implemented,Evidence_Link,Notes
+AC-2,Yes,https://docs.google.com/document/d/1A87pELK6fbbExMsFI5G8G-fyy6MqIZZa2QeYNYxD0Y/edit?usp=sharing,User lifecycle documented
+AC-3,No,,Enforcement via IAM not configured
+AC-6,Yes,https://docs.google.com/document/d/1IwaIGyn-r4liX0k-CHuHYBVZFbdfEPCKR0QUZ36xM/edit?usp=sharing,Role-based access implemented
+IA-2,No,,MFA pending for VPN and Okta
+IA-5,Yes,https://docs.google.com/document/d/1cS9nWo7bgN_Y7q6Hwq0RFKatIoLPPeBZg_iqzS6dE/edit?usp=sharing,Password/MFA rotation policy
+AU-2,Yes,https://docs.google.com/document/d/15JL2nQ0CUQogf0-4y_90Ph-pI0fhZZTEc_LM3arlMk/edit?usp=sharing,Centralized logging enabled
+AU-6,No,,No weekly audit review cadence defined
+CM-6,Yes,https://docs.google.com/document/d/16UpTmhn_62jFu0Io7B2yQ_KuTz-HZNNFlpkOKk_BheMY/edit?usp=sharing,Baseline defined for servers
+CP-9,No,,Backups configured but not tested
+IR-4,Yes,https://docs.google.com/document/d/1hoSeJBgea8AYbTmpPnmSDmfb7v7BEm47Tg98YE3cZJ3KTI/edit?usp=sharing,IR playbooks created
+SC-7,No,,Firewall microsegmentation not implemented
+SI-2,Yes,https://docs.google.com/document/d/1Ho-EXAMPLE-PLACEHOLDER/edit?usp=sharing,Patch SLAs defined

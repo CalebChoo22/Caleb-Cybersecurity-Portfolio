@@ -1,0 +1,13 @@
+Control_ID,Family,Control_Name,Implemented,Evidence_Link,Notes,Status,Risk_Tier
+AC-2,AC,Account Management,Yes,https://docs.google.com/document/d/1A87pELK6fbbExMsFI5G8G-fyy6MqIZZa2QeYNYxD0Y/edit?usp=sharing,User lifecycle documented,Compliant,High
+AC-3,AC,Access Enforcement,No,,Enforcement via IAM not configured,Gap,High
+AC-6,AC,Least Privilege,Yes,https://docs.google.com/document/d/1IwaIGyn-r4liX0k-CHuHYBVZFbdfEPCKR0QUZ36xM/edit?usp=sharing,Role-based access implemented,Compliant,High
+IA-2,IA,Identification and Authentication (Organizational Users),No,,MFA pending for VPN and Okta,Gap,High
+IA-5,IA,Authenticator Management,Yes,https://docs.google.com/document/d/1cS9nWo7bgN_Y7q6Hwq0RFKatIoLPPeBZg_iqzS6dE/edit?usp=sharing,Password/MFA rotation policy,Compliant,High
+AU-2,AU,Event Logging,Yes,https://docs.google.com/document/d/15JL2nQ0CUQogf0-4y_90Ph-pI0fhZZTEc_LM3arlMk/edit?usp=sharing,Centralized logging enabled,Compliant,Medium
+AU-6,AU,"Audit Record Review, Analysis, and Reporting",No,,No weekly audit review cadence defined,Gap,Medium
+CM-6,CM,Configuration Settings,Yes,https://docs.google.com/document/d/16UpTmhn_62jFu0Io7B2yQ_KuTz-HZNNFlpkOKk_BheMY/edit?usp=sharing,Baseline defined for servers,Compliant,Medium
+CP-9,CP,System Backup,No,,Backups configured but not tested,Gap,Medium
+IR-4,IR,Incident Handling,Yes,https://docs.google.com/document/d/1hoSeJBgea8AYbTmpPnmSDmfb7v7BEm47Tg98YE3cZJ3KTI/edit?usp=sharing,IR playbooks created,Compliant,High
+SC-7,SC,Boundary Protection,No,,Firewall microsegmentation not implemented,Gap,High
+SI-2,SI,Flaw Remediation,Yes,https://docs.google.com/document/d/1Ho-EXAMPLE-PLACEHOLDER/edit?usp=sharing,Patch SLAs defined,Compliant,High

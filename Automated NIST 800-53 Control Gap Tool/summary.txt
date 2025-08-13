@@ -1,0 +1,17 @@
+Gap Assessment Summary
+Date: 2025-08-13
+
+Total controls evaluated: 12
+Compliant controls: 7 (58.3%)
+Gaps: 5
+High-risk gaps: 3
+
+Gaps by Family:
+  AC: 1/3 gaps
+  AU: 1/2 gaps
+  CM: 0/1 gaps
+  CP: 1/1 gaps
+  IA: 1/2 gaps
+  IR: 0/1 gaps
+  SC: 1/1 gaps
+  SI: 0/1 gaps
