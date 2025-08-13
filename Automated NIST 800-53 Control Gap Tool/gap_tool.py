@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# NIST 800-53 Gap Assessment Tool (tolerates extra spaces/case differences)
-
 import csv, datetime, collections
 
 HIGH = {"AC", "IA", "IR", "SI", "SC"}
